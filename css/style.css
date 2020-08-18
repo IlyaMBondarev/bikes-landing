@@ -260,22 +260,22 @@ body {
 }
 
 .page .main-screen__bg {
-  min-height: 15vh;
+  min-height: 100vh;
   background-image: url("../img/bg_main.jpg");
 }
 @media (min-height: 900px) and (max-width: 1439px) {
   .page .main-screen__bg {
-    min-height: 15vh;
+    min-height: 70vh;
   }
 }
 @media (max-width: 1023px) {
   .page .main-screen__bg {
-    min-height: 15vh;
+    min-height: 70vh;
   }
 }
 @media (max-width: 700px) {
   .page .main-screen__bg {
-    min-height: 10vh;
+    min-height: 50vh;
   }
 }
 @media (max-width: 490px) {
