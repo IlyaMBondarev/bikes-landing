@@ -260,7 +260,7 @@ body {
 }
 
 .page .main-screen__bg {
-  min-height: 100vh;
+  min-height: 15vh;
   background-image: url("../img/bg_main.jpg");
 }
 @media (min-height: 900px) and (max-width: 1439px) {
